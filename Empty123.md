@@ -85,7 +85,7 @@ function myFunction() {
 - [types of text](#types-of-text)
   - [code text](#code-text)
 
-- [Markdown testing page](#markdown-testing-page)
+
 - [types of text](#types-of-text)
   - [code text](#code-text)
 - [links and images](#links-and-images)
