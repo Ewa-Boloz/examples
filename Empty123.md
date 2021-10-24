@@ -6,8 +6,11 @@ Markdown testing page
 <!-- Here comes the TOC -->
 
 <!-- Example of paragraph of text -->
-
+Lorem ipsum
 <!-- Example of another paragraph -->
+Another paragraph
+
+Lorum ipsum sit amet
 
 <!-- Example for Bold -->
 # types of text
@@ -58,6 +61,8 @@ function myFunction() {
 
 <!-- Example for Quote -->
 
+> quote  
+> quote
 
 <!-- Example for Bullet List -->
 
