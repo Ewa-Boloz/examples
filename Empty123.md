@@ -77,8 +77,8 @@ function myFunction() {
 
 | table header | table header |
 | ------------ | ------------ |
-| content | content |
-| content | content |
+| content      | content      |
+| content      | content      |
 
 <!-- Paragraph after table -->
 <!--table of content-->
@@ -86,6 +86,7 @@ function myFunction() {
   - [code text](#code-text)
 
 
+- [Markdown testing page](#markdown-testing-page)
 - [types of text](#types-of-text)
   - [code text](#code-text)
 - [links and images](#links-and-images)
