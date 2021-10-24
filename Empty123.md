@@ -14,6 +14,8 @@ Markdown testing page
 **This is bold text**   
 ~~this is outdated~~
 **this is a change**
+
+```this is the code```
 <!-- Example for Italic  -->
 *This is italic text*
 <!-- Example for Links -->
