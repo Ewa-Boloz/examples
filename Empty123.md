@@ -63,6 +63,11 @@ function myFunction() {
 
 <!-- Example for Numbered List -->
 
+1. list item
+  1. list item
+  2. list item
+2. list item
+
 <!-- Example for Tables -->
 # table template
 
