@@ -1,6 +1,7 @@
 <!-- Example for normal text -->
 The very first page created in Markdown.
 <!-- Example for title -->
+<!-- omit in toc -->
 Markdown testing page
 ================
 <!-- Here comes the TOC -->
@@ -73,7 +74,7 @@ function myFunction() {
 
 <!-- Example for Numbered List -->
 
-1. list item
+1. list item  
 2.  list item
 3. list item
 
@@ -87,11 +88,7 @@ function myFunction() {
 
 <!-- Paragraph after table -->
 <!--table of content-->
-- [types of text](#types-of-text)
-  - [code text](#code-text)
 
-
-- [Markdown testing page](#markdown-testing-page)
 - [types of text](#types-of-text)
   - [code text](#code-text)
 - [links and images](#links-and-images)
@@ -100,3 +97,5 @@ function myFunction() {
 - [other examples](#other-examples)
   - [code examples](#code-examples)
 - [table template](#table-template)
+
+
