@@ -34,13 +34,30 @@ This is [Google](http://google.com)
 # other examples
 to jest zwykly text
 <!-- Just text with equation -->
+> this is quote  
+> this is also quote  
+> and this one  
+> quote
 
 <!-- Example for inline code -->
 ``` this is inline code ```
 <!-- A block of code -->
-```this is code```
+## code examples
+```
+this is code
+```
+```
+<p>simple text</p>
+```  
+
+``` Javascript
+function myFunction() {
+  document.getElementById("demo").innerHTML = "Paragraph changed.";
+}
+```
 
 <!-- Example for Quote -->
+
 
 <!-- Example for Bullet List -->
 
