@@ -13,6 +13,7 @@ Markdown testing page
 # types of text
 **This is bold text**   
 ~~this is outdated~~
+**this is a change**
 <!-- Example for Italic  -->
 *This is italic text*
 <!-- Example for Links -->
