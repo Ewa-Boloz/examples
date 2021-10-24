@@ -2,9 +2,6 @@
 The very first page created in Markdown.
 <!-- Example for title -->
 
-<!-- omit in toc -->
-Markdown testing page
-================
 <!-- Here comes the TOC -->
 
 <!-- Example of paragraph of text -->
