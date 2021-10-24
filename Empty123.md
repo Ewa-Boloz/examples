@@ -66,8 +66,8 @@ function myFunction() {
 <!-- Example for Tables -->
 # table template
 
-| table header | table header |
-| ------------ | ------------ |
-| content | content |
-
+ table header | table header 
+ ------------ | ------------ 
+ content | content 
+ 
 <!-- Paragraph after table -->
