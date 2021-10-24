@@ -64,5 +64,10 @@ function myFunction() {
 <!-- Example for Numbered List -->
 
 <!-- Example for Tables -->
+# table template
+
+| table header | table header |
+| ------------ | ------------ |
+| content | content |
 
 <!-- Paragraph after table -->
