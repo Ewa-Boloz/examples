@@ -1,8 +1,8 @@
 <!-- Example for normal text -->
 The very first page created in Markdown.
 <!-- Example for title -->
-<!-- omit in toc -->
 
+<!-- omit in toc -->
 Markdown testing page
 ================
 <!-- Here comes the TOC -->
