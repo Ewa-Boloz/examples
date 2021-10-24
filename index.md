@@ -4,10 +4,12 @@ The very first page created in Markdown.
 
 <!-- omit in toc -->
 Markdown testing page
-================
+=====================
+
 <!-- Here comes the TOC -->
 
 <!-- Example of paragraph of text -->
+
 Lorem ipsum
 <!-- Example of another paragraph -->
 Another paragraph
