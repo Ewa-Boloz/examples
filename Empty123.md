@@ -30,12 +30,13 @@ This is [Google](http://google.com)
 
 <!-- Example for Headers -->
 # other examples
-to jest szykly text
+to jest zwykly text
 <!-- Just text with equation -->
 
 <!-- Example for inline code -->
 ``` this is inline code ```
 <!-- A block of code -->
+```this is code```
 
 <!-- Example for Quote -->
 
