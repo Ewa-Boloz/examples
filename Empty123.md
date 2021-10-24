@@ -14,7 +14,7 @@ Markdown testing page
 **This is bold text**   
 ~~this is outdated~~
 **this is a change**
-
+## code text
 ```this is the code```
 <!-- Example for Italic  -->
 *This is italic text*
@@ -81,3 +81,16 @@ function myFunction() {
 | content | content |
 
 <!-- Paragraph after table -->
+<!--table of content-->
+- [types of text](#types-of-text)
+  - [code text](#code-text)
+
+- [Markdown testing page](#markdown-testing-page)
+- [types of text](#types-of-text)
+  - [code text](#code-text)
+- [links and images](#links-and-images)
+  - [links](#links)
+  - [images](#images)
+- [other examples](#other-examples)
+  - [code examples](#code-examples)
+- [table template](#table-template)
