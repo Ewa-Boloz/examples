@@ -5,6 +5,7 @@ The very first page created in Markdown.
 <!-- Here comes the TOC -->
 
 <!-- Example of paragraph of text -->
+
 Lorem ipsum
 <!-- Example of another paragraph -->
 Another paragraph
